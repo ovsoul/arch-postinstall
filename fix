@@ -153,4 +153,4 @@ echo "- Script systemd: /usr/lib/systemd/system-sleep/kde-fix"
 echo "- Script emergencia: $HOME/fix-display.sh"
 echo "- Backups en: *.backup.*"
 echo
-echo -e "${RED}IMPORTANTE:${NC} Reinicia el sistema ahora para aplicar todos los cambios"
+echo -e "${RED}IMPORTANTE:${NC} Reinicia el sistema ahora para aplicar todos los cambios" 
